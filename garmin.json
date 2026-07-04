@@ -1,6 +1,16 @@
 {
-  "steps": 2584,
-  "calories": 2130.0,
-  "distance": 2208,
-  "floors": 4.0
+  "updated": "2026-07-04",
+  "today": {
+    "date": "2026-07-04",
+    "steps": 2584,
+    "distanceKm": 2.21,
+    "calories": 2130,
+    "floors": 4
+  },
+  "trend30": {
+    "avgSteps": 2584.0,
+    "avgDistanceKm": 2.2,
+    "avgCalories": 2130.0,
+    "avgFloors": 4.0
+  }
 }
