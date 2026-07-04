@@ -7,13 +7,22 @@
     "distanceKm": 2.21,
     "calories": 2130,
     "activeCalories": 565,
+    "bmrCalories": 1565,
+    "distanceMeters": 2208,
     "floors": 4,
     "sleepHours": 6.83,
     "activeMinutes": 72,
     "highActiveMinutes": 12,
     "sedentaryMinutes": 509,
     "respiration": 17.0,
-    "bodyBattery": "LOW"
+    "latestRespiration": 11.0,
+    "stepGoal": 5030,
+    "spo2Time": "2026-07-04T11:14:00.0",
+    "bodyBattery": "LOW",
+    "bodyBatteryFeedback": "DAY_STRESSFUL_AND_INACTIVE"
+  },
+  "progress": {
+    "stepsPct": 51.4
   },
   "trend30": {
     "avgSteps": 2584.0,
