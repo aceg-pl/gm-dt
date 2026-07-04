@@ -2,8 +2,16 @@
   {
     "date": "2026-07-04",
     "steps": 2584,
+    "goal": 5030,
     "distanceKm": 2.21,
     "calories": 2130,
-    "floors": 4
+    "activeCalories": 565,
+    "floors": 4,
+    "sleepHours": 6.83,
+    "activeMinutes": 72,
+    "highActiveMinutes": 12,
+    "sedentaryMinutes": 509,
+    "respiration": 17.0,
+    "bodyBattery": "LOW"
   }
 ]
