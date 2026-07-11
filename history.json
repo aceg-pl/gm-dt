@@ -148,23 +148,23 @@
   },
   {
     "date": "2026-07-11",
-    "steps": 7901,
+    "steps": 7979,
     "goal": 5150,
-    "distanceKm": 6.71,
-    "calories": 3580,
-    "activeCalories": 1480,
-    "bmrCalories": 2100,
-    "distanceMeters": 6715,
+    "distanceKm": 6.78,
+    "calories": 3747,
+    "activeCalories": 1500,
+    "bmrCalories": 2247,
+    "distanceMeters": 6782,
     "floors": 10,
     "sleepHours": 5.3,
-    "activeMinutes": 141,
-    "highActiveMinutes": 34,
-    "sedentaryMinutes": 853,
+    "activeMinutes": 144,
+    "highActiveMinutes": 35,
+    "sedentaryMinutes": 943,
     "respiration": 16.0,
     "latestRespiration": 17.0,
     "stepGoal": 5150,
     "spo2Time": null,
     "bodyBattery": "VERY_LOW",
-    "bodyBatteryFeedback": "DAY_STRESSFUL_AND_INACTIVE"
+    "bodyBatteryFeedback": "SLEEP_PREPARATION_STRESSFUL_AND_INACTIVE"
   }
 ]
