@@ -5,20 +5,20 @@
     "steps": 4187,
     "goal": 5610,
     "distanceKm": 3.62,
-    "calories": 2244,
+    "calories": 2426,
     "activeCalories": 179,
-    "bmrCalories": 2065,
+    "bmrCalories": 2247,
     "distanceMeters": 3620,
     "floors": 8,
     "sleepHours": 7.27,
     "activeMinutes": 34,
     "highActiveMinutes": 12,
-    "sedentaryMinutes": 842,
-    "respiration": 15.0,
-    "latestRespiration": 10.0,
+    "sedentaryMinutes": 958,
+    "respiration": 14.0,
+    "latestRespiration": 12.0,
     "stepGoal": 5610,
     "spo2Time": null,
-    "bodyBattery": "LOW",
+    "bodyBattery": "MODERATE",
     "bodyBatteryFeedback": "NO_DATA"
   },
   "progress": {
@@ -27,7 +27,7 @@
   "trend30": {
     "avgSteps": 5004.25,
     "avgDistanceKm": 4.29,
-    "avgCalories": 2859.42,
+    "avgCalories": 2874.58,
     "avgFloors": 8.5
   }
 }
