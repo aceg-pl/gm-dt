@@ -649,5 +649,26 @@
     "spo2Time": null,
     "bodyBattery": "LOW",
     "bodyBatteryFeedback": "DAY_STRESSFUL_AND_INACTIVE"
+  },
+  {
+    "date": "2026-09-10",
+    "steps": 1415,
+    "goal": 4500,
+    "distanceKm": 1.2,
+    "calories": 1373,
+    "activeCalories": 170,
+    "bmrCalories": 1203,
+    "distanceMeters": 1203,
+    "floors": 2,
+    "sleepHours": 6.87,
+    "activeMinutes": 26,
+    "highActiveMinutes": 4,
+    "sedentaryMinutes": 329,
+    "respiration": 16.0,
+    "latestRespiration": 13.0,
+    "stepGoal": 4500,
+    "spo2Time": null,
+    "bodyBattery": "LOW",
+    "bodyBatteryFeedback": "DAY_STRESSFUL_AND_INACTIVE"
   }
 ]
