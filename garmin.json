@@ -2,32 +2,32 @@
   "updated": "2026-09-28",
   "today": {
     "date": "2026-09-28",
-    "steps": 472,
+    "steps": 595,
     "goal": 3740,
-    "distanceKm": 0.4,
-    "calories": 835,
-    "activeCalories": 76,
-    "bmrCalories": 759,
-    "distanceMeters": 401,
+    "distanceKm": 0.51,
+    "calories": 872,
+    "activeCalories": 88,
+    "bmrCalories": 784,
+    "distanceMeters": 506,
     "floors": 0,
     "sleepHours": 7.1,
     "activeMinutes": 9,
-    "highActiveMinutes": 8,
-    "sedentaryMinutes": 44,
+    "highActiveMinutes": 10,
+    "sedentaryMinutes": 58,
     "respiration": 15.0,
-    "latestRespiration": 17.0,
+    "latestRespiration": 14.0,
     "stepGoal": 3740,
     "spo2Time": null,
     "bodyBattery": "LOW",
     "bodyBatteryFeedback": null
   },
   "progress": {
-    "stepsPct": 12.6
+    "stepsPct": 15.9
   },
   "trend30": {
-    "avgSteps": 4216.3,
-    "avgDistanceKm": 3.63,
-    "avgCalories": 2587.23,
+    "avgSteps": 4220.4,
+    "avgDistanceKm": 3.64,
+    "avgCalories": 2588.47,
     "avgFloors": 2.37
   }
 }
